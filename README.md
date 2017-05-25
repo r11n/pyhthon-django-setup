@@ -1,2 +1,4 @@
-# pyhthon-django-setup
-Guides user to setup python and django for developing projects
+# Components of this repo
+## [python installation](python.md)
+## [django installation on ubuntu](django.md)
+## [setting PostgreSQL as Database for Django](dbset.md)
